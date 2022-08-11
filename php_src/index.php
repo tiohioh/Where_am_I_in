@@ -36,5 +36,5 @@ echo $pref_name.$city_name;
 
 $w = '現在'.$pref_name.$city_name.$addr.'に居ます';
 
-file_put_contents('./a.txt',$a);
+file_put_contents('./a.txt',$w);
 ?>
